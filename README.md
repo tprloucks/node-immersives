@@ -1,4 +1,4 @@
-# Node Immeresives
+# Node Immersives
 
 Welcome to making your first terminal app!
 
